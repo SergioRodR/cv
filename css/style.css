@@ -1,0 +1,22 @@
+body{
+    font-family: "Raleway", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 500;
+    font-style: normal;
+    font-size: 20px;
+    background-color: black;
+    color: white;
+}
+
+/* section#aboutme ul li a{
+    color: red;
+} */
+
+section#aboutme > ul > li > a{
+    color: red;
+}
+
+section#experience > ul > li > a{
+    color: purple;
+}
+
